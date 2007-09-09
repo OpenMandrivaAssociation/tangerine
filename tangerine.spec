@@ -16,6 +16,7 @@ BuildRequires: muine avahi-sharp ipod-sharp glade-sharp2
 BuildRequires: mono beagle gtk-sharp2 
 BuildRequires: desktop-file-utils
 BuildRequires: libsm-devel 
+Requires:  %name-daemon
 # rhytmbox ?
 %description
 Tangerine is an application that allows you to publish music over the 
