@@ -1,7 +1,7 @@
 # create a server ?
 # TODO missing icons 
 %define name tangerine
-%define release		%mkrel 2
+%define release		%mkrel 4
 
 Summary:    Application to publish music on lan, using DAAP	
 Name:		%name
