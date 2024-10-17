@@ -10,7 +10,7 @@ Release:	%release
 Source0:	http://www.snorp.net/files//%name/%name-%version.tar.bz2
 License:	GPL
 Group:		Networking/File transfer
-Url:		http://www.snorp.net/log/tangerine/
+Url:		https://www.snorp.net/log/tangerine/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: muine avahi-sharp ipod-sharp glade-sharp2 
 BuildRequires: mono beagle gtk-sharp2 
